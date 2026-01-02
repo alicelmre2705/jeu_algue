@@ -1,0 +1,6443 @@
+Correct file
+Simulation number: 1
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1000
+Coral length effector: 12
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1440
+Coral length effector: 12
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1300
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1470
+Coral length effector: 12
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 2
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1001
+Coral length effector: 12
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1441
+Coral length effector: 12
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1301
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1471
+Coral length effector: 12
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 3
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1002
+Coral length effector: 12
+Coral id 33 found seaweed index 205 to eat
+Coral id 33 has eaten seaweed index 205
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1442
+Coral length effector: 12
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1302
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1472
+Coral length effector: 12
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 4
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1003
+Coral length effector: 16
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1443
+Coral length effector: 12
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1303
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1473
+Coral length effector: 12
+Coral id 36 found seaweed index 156 to eat
+Coral id 36 has eaten seaweed index 156
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 5
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1004
+Coral length effector: 16
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1444
+Coral length effector: 12
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1304
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1474
+Coral length effector: 16
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 6
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1005
+Coral length effector: 16
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1445
+Coral length effector: 12
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1305
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1475
+Coral length effector: 16
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 7
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1006
+Coral length effector: 16
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1446
+Coral length effector: 12
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1306
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1476
+Coral length effector: 16
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 8
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1007
+Coral length effector: 16
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1447
+Coral length effector: 12
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1307
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1477
+Coral length effector: 16
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 9
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1008
+Coral length effector: 16
+Coral id 33 found seaweed index 206 to eat
+Coral id 33 has eaten seaweed index 206
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1448
+Coral length effector: 12
+Coral id 34 found seaweed index 834 to eat
+Coral id 34 has eaten seaweed index 834
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1308
+Coral length effector: 12
+Coral id 35 found seaweed index 876 to eat
+Coral id 35 has eaten seaweed index 876
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1478
+Coral length effector: 16
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 10
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1009
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1449
+Coral length effector: 16
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1309
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1479
+Coral length effector: 16
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 11
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1010
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1450
+Coral length effector: 16
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1310
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1480
+Coral length effector: 16
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 12
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1011
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1451
+Coral length effector: 16
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1311
+Coral length effector: 16
+Coral id 35 found seaweed index 906 to eat
+Coral id 35 has eaten seaweed index 906
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1481
+Coral length effector: 16
+Coral id 36 found seaweed index 186 to eat
+Coral id 36 has eaten seaweed index 186
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 13
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1012
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1452
+Coral length effector: 16
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1312
+Coral length effector: 20
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1482
+Coral length effector: 20
+Coral id 36 found seaweed index 157 to eat
+Coral id 36 has eaten seaweed index 157
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 14
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1013
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1453
+Coral length effector: 16
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1313
+Coral length effector: 20
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1483
+Coral length effector: 24
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 15
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1014
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1454
+Coral length effector: 16
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1314
+Coral length effector: 20
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1484
+Coral length effector: 24
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 16
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1015
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1455
+Coral length effector: 16
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1315
+Coral length effector: 20
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1485
+Coral length effector: 24
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 17
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1016
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1456
+Coral length effector: 16
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1316
+Coral length effector: 20
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1486
+Coral length effector: 24
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 18
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1017
+Coral length effector: 20
+Coral id 33 found seaweed index 236 to eat
+Coral id 33 has eaten seaweed index 236
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1457
+Coral length effector: 16
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1317
+Coral length effector: 20
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1487
+Coral length effector: 24
+Coral id 36 found seaweed index 158 to eat
+Coral id 36 has eaten seaweed index 158
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Timer added
+Simulation number: 19
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1018
+Coral length effector: 24
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1458
+Coral length effector: 16
+Coral id 34 found seaweed index 833 to eat
+Coral id 34 has eaten seaweed index 833
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1318
+Coral length effector: 20
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1488
+Coral length effector: 28
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 20
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1019
+Coral length effector: 24
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1459
+Coral length effector: 20
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1319
+Coral length effector: 20
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1489
+Coral length effector: 28
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 21
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1020
+Coral length effector: 24
+Coral id 33 found seaweed index 267 to eat
+Coral id 33 has eaten seaweed index 267
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1460
+Coral length effector: 20
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1320
+Coral length effector: 20
+Coral id 35 found seaweed index 905 to eat
+Coral id 35 has eaten seaweed index 905
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1490
+Coral length effector: 28
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 22
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1021
+Coral length effector: 28
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1461
+Coral length effector: 20
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1321
+Coral length effector: 24
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1491
+Coral length effector: 28
+Coral id 36 found seaweed index 187 to eat
+Coral id 36 has eaten seaweed index 187
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 23
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1022
+Coral length effector: 28
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1462
+Coral length effector: 20
+Coral id 34 found seaweed index 832 to eat
+Coral id 34 has eaten seaweed index 832
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1322
+Coral length effector: 24
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1492
+Coral length effector: 32
+Coral id 36 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 24
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1023
+Coral length effector: 28
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1463
+Coral length effector: 24
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1323
+Coral length effector: 24
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1493
+Coral length effector: 32
+Coral id 36 found seaweed index 188 to eat
+Coral id 36 has eaten seaweed index 188
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 25
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1024
+Coral length effector: 28
+Coral id 33 found seaweed index 235 to eat
+Coral id 33 has eaten seaweed index 235
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1464
+Coral length effector: 24
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1324
+Coral length effector: 24
+Coral id 35 found seaweed index 875 to eat
+Coral id 35 has eaten seaweed index 875
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1494
+Coral length effector: 36
+Coral id 36 found seaweed index 189 to eat
+Coral id 36 has eaten seaweed index 189
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 26
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1025
+Coral length effector: 32
+Coral id 33 found seaweed index 266 to eat
+Coral id 33 has eaten seaweed index 266
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1465
+Coral length effector: 24
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1325
+Coral length effector: 28
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1495
+Coral length effector: 40
+Coral id 36 is reproducting
+Coral id 36 CHANGE STATUS DEV: EXTEND
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 27
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1026
+Coral length effector: 36
+Coral id 33 found seaweed index 297 to eat
+Coral id 33 has eaten seaweed index 297
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1466
+Coral length effector: 24
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1326
+Coral length effector: 28
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1496
+Coral length effector: 20
+Coral id 36 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1
+Coral length effector: 12
+Coral id 37 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 28
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1027
+Coral length effector: 40
+Coral id 33 is reproducting
+Coral id 33 CHANGE STATUS DEV: EXTEND
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1467
+Coral length effector: 24
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1327
+Coral length effector: 28
+Coral id 35 found seaweed index 904 to eat
+Coral id 35 has eaten seaweed index 904
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1497
+Coral length effector: 20
+Coral id 36 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 2
+Coral length effector: 12
+Coral id 37 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 29
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1028
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1468
+Coral length effector: 24
+Coral id 34 found seaweed index 862 to eat
+Coral id 34 has eaten seaweed index 862
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1328
+Coral length effector: 32
+Coral id 35 found seaweed index 933 to eat
+Coral id 35 has eaten seaweed index 933
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1498
+Coral length effector: 20
+Coral id 36 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 3
+Coral length effector: 12
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1
+Coral length effector: 12
+Coral id 38 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 30
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1029
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1469
+Coral length effector: 28
+Coral id 34 found seaweed index 863 to eat
+Coral id 34 has eaten seaweed index 863
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1329
+Coral length effector: 36
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1499
+Coral id 36 CHANGE STATUS: DEAD
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 4
+Coral length effector: 12
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 2
+Coral length effector: 12
+Coral id 38 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 84.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 31
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1030
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1470
+Coral length effector: 32
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1330
+Coral length effector: 36
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 5
+Coral length effector: 12
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 3
+Coral length effector: 12
+Coral id 38 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 80.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 32
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1031
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1471
+Coral length effector: 32
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1331
+Coral length effector: 36
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 6
+Coral length effector: 12
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 4
+Coral length effector: 12
+Coral id 38 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 76.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 33
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1032
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1472
+Coral length effector: 32
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1332
+Coral length effector: 36
+Coral id 35 found seaweed index 903 to eat
+Coral id 35 has eaten seaweed index 903
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 7
+Coral length effector: 12
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 5
+Coral length effector: 12
+Coral id 38 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 72.8134
+Scavenger index 0 has moved towards coral id 36
+manually disconnecting the timer 
+Simulation number: 34
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1033
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1473
+Coral length effector: 32
+Coral id 34 found seaweed index 891 to eat
+Coral id 34 has eaten seaweed index 891
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1333
+Coral length effector: 40
+Coral id 35 is reproducting
+Coral id 35 CHANGE STATUS DEV: EXTEND
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 8
+Coral length effector: 12
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 6
+Coral length effector: 12
+Coral id 38 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 68.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 35
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1034
+Coral length effector: 20
+Coral id 33 found seaweed index 265 to eat
+Coral id 33 has eaten seaweed index 265
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1474
+Coral length effector: 36
+Coral id 34 found seaweed index 864 to eat
+Coral id 34 has eaten seaweed index 864
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1334
+Coral length effector: 20
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 9
+Coral length effector: 12
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 7
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1
+Coral length effector: 12
+Coral id 39 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 64.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 36
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1035
+Coral length effector: 24
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1475
+Coral length effector: 40
+Coral id 34 is reproducting
+Coral id 34 CHANGE STATUS DEV: EXTEND
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1335
+Coral length effector: 20
+Coral id 35 found seaweed index 874 to eat
+Coral id 35 has eaten seaweed index 874
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 10
+Coral length effector: 12
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 8
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 2
+Coral length effector: 12
+Coral id 39 found seaweed index 932 to eat
+Coral id 39 has eaten seaweed index 932
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 60.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 37
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1036
+Coral length effector: 24
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1476
+Coral length effector: 20
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1336
+Coral length effector: 24
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 11
+Coral length effector: 12
+Coral id 37 found seaweed index 160 to eat
+Coral id 37 has eaten seaweed index 160
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 9
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 3
+Coral length effector: 16
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1
+Coral length effector: 12
+Coral id 40 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 56.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 38
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1037
+Coral length effector: 24
+Coral id 33 found seaweed index 295 to eat
+Coral id 33 has eaten seaweed index 295
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1477
+Coral length effector: 20
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1337
+Coral length effector: 24
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 12
+Coral length effector: 16
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 10
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 4
+Coral length effector: 16
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 2
+Coral length effector: 12
+Coral id 40 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 52.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 39
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1038
+Coral length effector: 28
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1478
+Coral length effector: 20
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1338
+Coral length effector: 24
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 13
+Coral length effector: 16
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 11
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 5
+Coral length effector: 16
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 3
+Coral length effector: 12
+Coral id 40 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 48.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 40
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1039
+Coral length effector: 28
+Coral id 33 found seaweed index 325 to eat
+Coral id 33 has eaten seaweed index 325
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1479
+Coral length effector: 20
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1339
+Coral length effector: 24
+Coral id 35 found seaweed index 873 to eat
+Coral id 35 has eaten seaweed index 873
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 14
+Coral length effector: 16
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 12
+Coral length effector: 12
+Coral id 38 found seaweed index 298 to eat
+Coral id 38 has eaten seaweed index 298
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 6
+Coral length effector: 16
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 4
+Coral length effector: 12
+Coral id 40 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 44.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 41
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1040
+Coral length effector: 32
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1480
+Coral length effector: 20
+Coral id 34 found seaweed index 893 to eat
+Coral id 34 has eaten seaweed index 893
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1340
+Coral length effector: 28
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 15
+Coral length effector: 16
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 13
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 7
+Coral length effector: 16
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 5
+Coral length effector: 12
+Coral id 40 found seaweed index 920 to eat
+Coral id 40 has eaten seaweed index 920
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 40.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 42
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1041
+Coral length effector: 32
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1481
+Coral length effector: 24
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1341
+Coral length effector: 28
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 16
+Coral length effector: 16
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 14
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 8
+Coral length effector: 16
+Coral id 39 found seaweed index 962 to eat
+Coral id 39 has eaten seaweed index 962
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 6
+Coral length effector: 16
+Coral id 40 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 36.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 43
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1042
+Coral length effector: 32
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1482
+Coral length effector: 24
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1342
+Coral length effector: 28
+Coral id 35 found seaweed index 845 to eat
+Coral id 35 has eaten seaweed index 845
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 17
+Coral length effector: 16
+Coral id 37 found seaweed index 130 to eat
+Coral id 37 has eaten seaweed index 130
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 15
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 9
+Coral length effector: 20
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 7
+Coral length effector: 16
+Coral id 40 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 32.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 44
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1043
+Coral length effector: 32
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1483
+Coral length effector: 24
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1343
+Coral length effector: 32
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 18
+Coral length effector: 20
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 16
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 10
+Coral length effector: 20
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 8
+Coral length effector: 16
+Coral id 40 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 28.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 45
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1044
+Coral length effector: 32
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1484
+Coral length effector: 24
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1344
+Coral length effector: 32
+Coral id 35 found seaweed index 844 to eat
+Coral id 35 has eaten seaweed index 844
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 19
+Coral length effector: 20
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 17
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 11
+Coral length effector: 20
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 9
+Coral length effector: 16
+Coral id 40 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 24.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 46
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1045
+Coral length effector: 32
+Coral id 33 found seaweed index 324 to eat
+Coral id 33 has eaten seaweed index 324
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1485
+Coral length effector: 24
+Coral id 34 found seaweed index 923 to eat
+Coral id 34 has eaten seaweed index 923
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1345
+Coral length effector: 36
+Coral id 35 found seaweed index 843 to eat
+Coral id 35 has eaten seaweed index 843
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 20
+Coral length effector: 20
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 18
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 12
+Coral length effector: 20
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 10
+Coral length effector: 16
+Coral id 40 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 20.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 47
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1046
+Coral length effector: 36
+Coral id 33 found seaweed index 294 to eat
+Coral id 33 has eaten seaweed index 294
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1486
+Coral length effector: 28
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1346
+Coral length effector: 40
+Coral id 35 is extending
+Coral id 35 CHANGE STATUS DEV: REPRO
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 21
+Coral length effector: 20
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 19
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 13
+Coral length effector: 20
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 11
+Coral length effector: 16
+Coral id 40 found seaweed index 950 to eat
+Coral id 40 has eaten seaweed index 950
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 16.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 48
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1047
+Coral length effector: 40
+Coral id 33 is extending
+Coral id 33 CHANGE STATUS DEV: REPRO
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1487
+Coral length effector: 28
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1347
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 22
+Coral length effector: 20
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 20
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 14
+Coral length effector: 20
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 12
+Coral length effector: 20
+Coral id 40 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 12.8134
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 49
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1048
+Coral length effector: 12
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1488
+Coral length effector: 28
+Coral id 34 found seaweed index 953 to eat
+Coral id 34 has eaten seaweed index 953
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1348
+Coral length effector: 12
+Coral id 35 found seaweed index 841 to eat
+Coral id 35 has eaten seaweed index 841
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 23
+Coral length effector: 20
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 21
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 15
+Coral length effector: 20
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 13
+Coral length effector: 20
+Coral id 40 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 8.81341
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 50
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1049
+Coral length effector: 12
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1489
+Coral length effector: 32
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1349
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 24
+Coral length effector: 20
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 22
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 16
+Coral length effector: 20
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 14
+Coral length effector: 20
+Coral id 40 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 4.81341
+Scavenger index 0 has moved towards coral id 36
+Simulation number: 51
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1050
+Coral length effector: 12
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1490
+Coral length effector: 32
+Coral id 34 found seaweed index 983 to eat
+Coral id 34 has eaten seaweed index 983
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1350
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: DEAD
+AVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 25
+Coral length effector: 20
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 23
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 17
+Coral length effector: 20
+Coral id 39 found seaweed index 893 to eat
+Coral id 39 has eaten seaweed index 893
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 15
+Coral length effector: 20
+Coral id 40 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 0.81341
+Scavenger index 0 has arrived on corail id 36
+Coral id 36 is now UNAVAILABLE
+Simulation number: 52
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1051
+Coral length effector: 12
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1491
+Coral length effector: 36
+Coral id 34 found seaweed index 894 to eat
+Coral id 34 has eaten seaweed index 894
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1351
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: DEAD
+UNAVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 26
+Coral length effector: 20
+Coral id 37 found seaweed index 129 to eat
+Coral id 37 has eaten seaweed index 129
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 24
+Coral length effector: 16
+Coral id 38 found seaweed index 268 to eat
+Coral id 38 has eaten seaweed index 268
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 18
+Coral length effector: 24
+Coral id 39 found seaweed index 963 to eat
+Coral id 39 has eaten seaweed index 963
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 16
+Coral length effector: 20
+Coral id 40 is turning
+Scavenger index 0 has status: MANGE
+Scavenger index 0 eats coral with id: 36
+Number of segments left for eaten coral: 1
+Simulation number: 53
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1052
+Coral length effector: 12
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1492
+Coral length effector: 40
+Coral id 34 is extending
+Coral id 34 CHANGE STATUS DEV: REPRO
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1352
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: DEAD
+UNAVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 27
+Coral length effector: 24
+Coral id 37 found seaweed index 159 to eat
+Coral id 37 has eaten seaweed index 159
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 25
+Coral length effector: 20
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 19
+Coral length effector: 28
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 17
+Coral length effector: 20
+Coral id 40 is turning
+Scavenger index 0 has status: MANGE
+Scavenger index 0 eats coral with id: 36
+Number of segments left for eaten coral: 1
+Simulation number: 54
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1053
+Coral length effector: 12
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1493
+Coral length effector: 12
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1353
+Coral length effector: 16
+Coral id 35 found seaweed index 842 to eat
+Coral id 35 has eaten seaweed index 842
+Coral index 3 has id: 36
+status: DEAD
+UNAVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 28
+Coral length effector: 28
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 26
+Coral length effector: 20
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 20
+Coral length effector: 28
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 18
+Coral length effector: 20
+Coral id 40 is turning
+Scavenger index 0 has status: MANGE
+Scavenger index 0 eats coral with id: 36
+Number of segments left for eaten coral: 1
+Simulation number: 55
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1054
+Coral length effector: 12
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1494
+Coral length effector: 12
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1354
+Coral length effector: 20
+Coral id 35 is turning
+Coral index 3 has id: 36
+status: DEAD
+UNAVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 29
+Coral length effector: 28
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 27
+Coral length effector: 20
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 21
+Coral length effector: 28
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 19
+Coral length effector: 20
+Coral id 40 found seaweed index 921 to eat
+Coral id 40 has eaten seaweed index 921
+Scavenger index 0 has status: MANGE
+Scavenger index 0 eats coral with id: 36
+Number of segments left for eaten coral: 1
+Simulation number: 56
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1055
+Coral length effector: 12
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1495
+Coral length effector: 12
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1355
+Coral length effector: 20
+Coral id 35 found seaweed index 810 to eat
+Coral id 35 has eaten seaweed index 810
+Coral index 3 has id: 36
+status: DEAD
+UNAVAILABLE
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 30
+Coral length effector: 28
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 28
+Coral length effector: 20
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 22
+Coral length effector: 28
+Coral id 39 is turning
+Coral index 7 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 20
+Coral length effector: 24
+Coral id 40 found seaweed index 951 to eat
+Coral id 40 has eaten seaweed index 951
+Scavenger index 0 has status: MANGE
+Scavenger index 0 eats coral with id: 36
+Number of segments left for eaten coral: 0
+Coral id 36 DISAPPEARS
+Scavenger index 0 is now LIBRE
+Simulation number: 57
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1056
+Coral length effector: 12
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1496
+Coral length effector: 12
+Coral id 34 found seaweed index 186 to eat
+Coral id 34 has eaten seaweed index 186
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1356
+Coral length effector: 24
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 21
+Coral length effector: 28
+Coral id 40 found seaweed index 268 to eat
+Coral id 40 has eaten seaweed index 268
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 31
+Coral length effector: 28
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 29
+Coral length effector: 20
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 23
+Coral length effector: 28
+Coral id 39 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 58
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1057
+Coral length effector: 12
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1497
+Coral length effector: 16
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1357
+Coral length effector: 24
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 22
+Coral length effector: 32
+Coral id 40 found seaweed index 236 to eat
+Coral id 40 has eaten seaweed index 236
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 32
+Coral length effector: 28
+Coral id 37 found seaweed index 98 to eat
+Coral id 37 has eaten seaweed index 98
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 30
+Coral length effector: 20
+Coral id 38 found seaweed index 238 to eat
+Coral id 38 has eaten seaweed index 238
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 24
+Coral length effector: 28
+Coral id 39 found seaweed index 298 to eat
+Coral id 39 has eaten seaweed index 298
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 59
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1058
+Coral length effector: 12
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1498
+Coral length effector: 16
+Coral id 34 is turning
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1358
+Coral length effector: 24
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 23
+Coral length effector: 36
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 33
+Coral length effector: 32
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 31
+Coral length effector: 24
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 25
+Coral length effector: 32
+Coral id 39 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+Simulation number: 60
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1059
+Coral length effector: 12
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1499
+Coral id 34 CHANGE STATUS: DEAD
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1359
+Coral length effector: 24
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 24
+Coral length effector: 36
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 34
+Coral length effector: 32
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 32
+Coral length effector: 24
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 26
+Coral length effector: 32
+Coral id 39 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 237.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 61
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1060
+Coral length effector: 12
+Coral id 33 found seaweed index 353 to eat
+Coral id 33 has eaten seaweed index 353
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1360
+Coral length effector: 24
+Coral id 35 found seaweed index 811 to eat
+Coral id 35 has eaten seaweed index 811
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 25
+Coral length effector: 36
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 35
+Coral length effector: 32
+Coral id 37 found seaweed index 128 to eat
+Coral id 37 has eaten seaweed index 128
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 33
+Coral length effector: 24
+Coral id 38 found seaweed index 208 to eat
+Coral id 38 has eaten seaweed index 208
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 27
+Coral length effector: 32
+Coral id 39 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 233.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 62
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1061
+Coral length effector: 16
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1361
+Coral length effector: 28
+Coral id 35 found seaweed index 780 to eat
+Coral id 35 has eaten seaweed index 780
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 26
+Coral length effector: 36
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 36
+Coral length effector: 36
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 34
+Coral length effector: 28
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 28
+Coral length effector: 32
+Coral id 39 found seaweed index 964 to eat
+Coral id 39 has eaten seaweed index 964
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 229.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 63
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1062
+Coral length effector: 16
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1362
+Coral length effector: 32
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 27
+Coral length effector: 36
+Coral id 40 found seaweed index 157 to eat
+Coral id 40 has eaten seaweed index 157
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 37
+Coral length effector: 36
+Coral id 37 found seaweed index 97 to eat
+Coral id 37 has eaten seaweed index 97
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 35
+Coral length effector: 28
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 29
+Coral length effector: 36
+Coral id 39 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 225.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 64
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1063
+Coral length effector: 16
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1363
+Coral length effector: 32
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 28
+Coral length effector: 40
+Coral id 40 is extending
+Coral id 40 CHANGE STATUS DEV: REPRO
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 38
+Coral length effector: 40
+Coral id 37 is extending
+Coral id 37 CHANGE STATUS DEV: REPRO
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 36
+Coral length effector: 28
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 30
+Coral length effector: 36
+Coral id 39 found seaweed index 873 to eat
+Coral id 39 has eaten seaweed index 873
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 221.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 65
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1064
+Coral length effector: 16
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1364
+Coral length effector: 32
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 29
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 39
+Coral length effector: 12
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 37
+Coral length effector: 28
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 31
+Coral length effector: 40
+Coral id 39 is extending
+Coral id 39 CHANGE STATUS DEV: REPRO
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 217.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 66
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1065
+Coral length effector: 16
+Coral id 33 found seaweed index 352 to eat
+Coral id 33 has eaten seaweed index 352
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1365
+Coral length effector: 32
+Coral id 35 found seaweed index 750 to eat
+Coral id 35 has eaten seaweed index 750
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 30
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 40
+Coral length effector: 12
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 38
+Coral length effector: 28
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 32
+Coral length effector: 12
+Coral id 39 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 213.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 67
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1066
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1366
+Coral length effector: 36
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 31
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 41
+Coral length effector: 12
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 39
+Coral length effector: 28
+Coral id 38 found seaweed index 833 to eat
+Coral id 38 has eaten seaweed index 833
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 33
+Coral length effector: 12
+Coral id 39 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 209.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 68
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1067
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1367
+Coral length effector: 36
+Coral id 35 found seaweed index 781 to eat
+Coral id 35 has eaten seaweed index 781
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 32
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 42
+Coral length effector: 12
+Coral id 37 found seaweed index 66 to eat
+Coral id 37 has eaten seaweed index 66
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 40
+Coral length effector: 32
+Coral id 38 found seaweed index 177 to eat
+Coral id 38 has eaten seaweed index 177
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 34
+Coral length effector: 12
+Coral id 39 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 205.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 69
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1068
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1368
+Coral length effector: 40
+Coral id 35 is reproducting
+Coral id 35 CHANGE STATUS DEV: EXTEND
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 33
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 43
+Coral length effector: 16
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 41
+Coral length effector: 36
+Coral id 38 found seaweed index 207 to eat
+Coral id 38 has eaten seaweed index 207
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 35
+Coral length effector: 12
+Coral id 39 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 201.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 70
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1069
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1369
+Coral length effector: 20
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 34
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 44
+Coral length effector: 16
+Coral id 37 found seaweed index 873 to eat
+Coral id 37 has eaten seaweed index 873
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 42
+Coral length effector: 40
+Coral id 38 is extending
+Coral id 38 CHANGE STATUS DEV: REPRO
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 36
+Coral length effector: 12
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1
+Coral length effector: 12
+Coral id 41 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 197.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 71
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1070
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1370
+Coral length effector: 20
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 35
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 45
+Coral length effector: 20
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 43
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 37
+Coral length effector: 12
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 2
+Coral length effector: 12
+Coral id 41 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 193.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 72
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1071
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1371
+Coral length effector: 20
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 36
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 46
+Coral length effector: 20
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 44
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 38
+Coral length effector: 12
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 3
+Coral length effector: 12
+Coral id 41 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 189.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 73
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1072
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1372
+Coral length effector: 20
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 37
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 47
+Coral length effector: 20
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 45
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 39
+Coral length effector: 12
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 4
+Coral length effector: 12
+Coral id 41 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 185.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 74
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1073
+Coral length effector: 20
+Coral id 33 found seaweed index 322 to eat
+Coral id 33 has eaten seaweed index 322
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1373
+Coral length effector: 20
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 38
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 48
+Coral length effector: 20
+Coral id 37 found seaweed index 65 to eat
+Coral id 37 has eaten seaweed index 65
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 46
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 40
+Coral length effector: 12
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 5
+Coral length effector: 12
+Coral id 41 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 181.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 75
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1074
+Coral length effector: 24
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1374
+Coral length effector: 20
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 39
+Coral length effector: 12
+Coral id 40 is turning
+Lifeform (34) segment (1) collides with Lifeform (40) segment (1)
+
+Collision detected : remove rotation
+Coral id 40 CHANGE DIR ROT: TRIGO
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 49
+Coral length effector: 24
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 47
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 41
+Coral length effector: 12
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 6
+Coral length effector: 12
+Coral id 41 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 177.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 76
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1075
+Coral length effector: 24
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1375
+Coral length effector: 20
+Coral id 35 found seaweed index 812 to eat
+Coral id 35 has eaten seaweed index 812
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 40
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 50
+Coral length effector: 24
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 48
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 42
+Coral length effector: 12
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 7
+Coral length effector: 12
+Coral id 41 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 173.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 77
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1076
+Coral length effector: 24
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1376
+Coral length effector: 24
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 41
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 51
+Coral length effector: 24
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 49
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 43
+Coral length effector: 12
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 8
+Coral length effector: 12
+Coral id 41 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 169.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 78
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1077
+Coral length effector: 24
+Coral id 33 found seaweed index 323 to eat
+Coral id 33 has eaten seaweed index 323
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1377
+Coral length effector: 24
+Coral id 35 found seaweed index 782 to eat
+Coral id 35 has eaten seaweed index 782
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 42
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 52
+Coral length effector: 24
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 50
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 44
+Coral length effector: 12
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 9
+Coral length effector: 12
+Coral id 41 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 165.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 79
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1078
+Coral length effector: 28
+Coral id 33 found seaweed index 291 to eat
+Coral id 33 has eaten seaweed index 291
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1378
+Coral length effector: 28
+Coral id 35 found seaweed index 752 to eat
+Coral id 35 has eaten seaweed index 752
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 43
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 53
+Coral length effector: 24
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 51
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 45
+Coral length effector: 12
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 10
+Coral length effector: 12
+Coral id 41 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 161.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 80
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1079
+Coral length effector: 32
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1379
+Coral length effector: 32
+Coral id 35 found seaweed index 722 to eat
+Coral id 35 has eaten seaweed index 722
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 44
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 54
+Coral length effector: 24
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 52
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 46
+Coral length effector: 12
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 11
+Coral length effector: 12
+Coral id 41 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 157.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 81
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1080
+Coral length effector: 32
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1380
+Coral length effector: 36
+Coral id 35 found seaweed index 692 to eat
+Coral id 35 has eaten seaweed index 692
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 45
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 55
+Coral length effector: 24
+Coral id 37 found seaweed index 94 to eat
+Coral id 37 has eaten seaweed index 94
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 53
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 47
+Coral length effector: 12
+Coral id 39 found seaweed index 325 to eat
+Coral id 39 has eaten seaweed index 325
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 12
+Coral length effector: 12
+Coral id 41 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 153.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 82
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1081
+Coral length effector: 32
+Coral id 33 found seaweed index 292 to eat
+Coral id 33 has eaten seaweed index 292
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1381
+Coral length effector: 40
+Coral id 35 is extending
+Coral id 35 CHANGE STATUS DEV: REPRO
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 46
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 56
+Coral length effector: 28
+Coral id 37 found seaweed index 95 to eat
+Coral id 37 has eaten seaweed index 95
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 54
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 48
+Coral length effector: 16
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 13
+Coral length effector: 12
+Coral id 41 is turning
+lifeform (41) at (0.333217;180.306526) is outside allowed boundaries of ]0, max[
+
+Collision detected : remove rotation
+Coral id 41 CHANGE DIR ROT: TRIGO
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 149.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 83
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1082
+Coral length effector: 36
+Coral id 33 found seaweed index 261 to eat
+Coral id 33 has eaten seaweed index 261
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1382
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 47
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 57
+Coral length effector: 32
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 55
+Coral length effector: 12
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 49
+Coral length effector: 16
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 14
+Coral length effector: 12
+Coral id 41 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 145.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 84
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1083
+Coral length effector: 40
+Coral id 33 is reproducting
+Coral id 33 CHANGE STATUS DEV: EXTEND
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1383
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 48
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 58
+Coral length effector: 32
+Coral id 37 found seaweed index 96 to eat
+Coral id 37 has eaten seaweed index 96
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 56
+Coral length effector: 12
+Coral id 38 found seaweed index 146 to eat
+Coral id 38 has eaten seaweed index 146
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 50
+Coral length effector: 16
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 15
+Coral length effector: 12
+Coral id 41 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 141.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 85
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1084
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1384
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 49
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 59
+Coral length effector: 36
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 57
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 51
+Coral length effector: 16
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 16
+Coral length effector: 12
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1
+Coral length effector: 12
+Coral id 42 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 137.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 86
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1085
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1385
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 50
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 60
+Coral length effector: 36
+Coral id 37 found seaweed index 123 to eat
+Coral id 37 has eaten seaweed index 123
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 58
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 52
+Coral length effector: 16
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 17
+Coral length effector: 12
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 2
+Coral length effector: 12
+Coral id 42 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 133.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 87
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1086
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1386
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 51
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 61
+Coral length effector: 40
+Coral id 37 is reproducting
+Coral id 37 CHANGE STATUS DEV: EXTEND
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 59
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 53
+Coral length effector: 16
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 18
+Coral length effector: 12
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 3
+Coral length effector: 12
+Coral id 42 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 129.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 88
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1087
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1387
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 52
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 62
+Coral length effector: 20
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 60
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 54
+Coral length effector: 16
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 19
+Coral length effector: 12
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 4
+Coral length effector: 12
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1
+Coral length effector: 12
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 125.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 89
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1088
+Coral length effector: 20
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1388
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 53
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 63
+Coral length effector: 20
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 61
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 55
+Coral length effector: 16
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 20
+Coral length effector: 12
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 5
+Coral length effector: 12
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 2
+Coral length effector: 12
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 121.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 90
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1089
+Coral length effector: 20
+Coral id 33 found seaweed index 293 to eat
+Coral id 33 has eaten seaweed index 293
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1389
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 54
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 64
+Coral length effector: 20
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 62
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 56
+Coral length effector: 16
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 21
+Coral length effector: 12
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 6
+Coral length effector: 12
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 3
+Coral length effector: 12
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 117.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 91
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1090
+Coral length effector: 24
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1390
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 55
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 65
+Coral length effector: 20
+Coral id 37 found seaweed index 125 to eat
+Coral id 37 has eaten seaweed index 125
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 63
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 57
+Coral length effector: 16
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 22
+Coral length effector: 12
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 7
+Coral length effector: 12
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 4
+Coral length effector: 12
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 113.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 92
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1091
+Coral length effector: 24
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1391
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 56
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 66
+Coral length effector: 24
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 64
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 58
+Coral length effector: 16
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 23
+Coral length effector: 12
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 8
+Coral length effector: 12
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 5
+Coral length effector: 12
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 109.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 93
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1092
+Coral length effector: 24
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1392
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 57
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 67
+Coral length effector: 24
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 65
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 59
+Coral length effector: 16
+Coral id 39 found seaweed index 157 to eat
+Coral id 39 has eaten seaweed index 157
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 24
+Coral length effector: 12
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 9
+Coral length effector: 12
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 6
+Coral length effector: 12
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 105.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 94
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1093
+Coral length effector: 24
+Coral id 33 found seaweed index 263 to eat
+Coral id 33 has eaten seaweed index 263
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1393
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 58
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 68
+Coral length effector: 24
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 66
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 60
+Coral length effector: 20
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 25
+Coral length effector: 12
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 10
+Coral length effector: 12
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 7
+Coral length effector: 12
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 101.954
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 95
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1094
+Coral length effector: 28
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1394
+Coral length effector: 12
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 59
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 69
+Coral length effector: 24
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 67
+Coral length effector: 16
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 61
+Coral length effector: 20
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 26
+Coral length effector: 12
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 11
+Coral length effector: 12
+Coral id 42 found seaweed index 260 to eat
+Coral id 42 has eaten seaweed index 260
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 8
+Coral length effector: 12
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 97.9538
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 96
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1095
+Coral length effector: 28
+Coral id 33 found seaweed index 233 to eat
+Coral id 33 has eaten seaweed index 233
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1395
+Coral length effector: 12
+Coral id 35 found seaweed index 693 to eat
+Coral id 35 has eaten seaweed index 693
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 60
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 70
+Coral length effector: 24
+Coral id 37 found seaweed index 155 to eat
+Coral id 37 has eaten seaweed index 155
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 68
+Coral length effector: 16
+Coral id 38 found seaweed index 176 to eat
+Coral id 38 has eaten seaweed index 176
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 62
+Coral length effector: 20
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 27
+Coral length effector: 12
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 12
+Coral length effector: 16
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 9
+Coral length effector: 12
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 93.9538
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 97
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1096
+Coral length effector: 32
+Coral id 33 found seaweed index 203 to eat
+Coral id 33 has eaten seaweed index 203
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1396
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 61
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 71
+Coral length effector: 28
+Coral id 37 found seaweed index 126 to eat
+Coral id 37 has eaten seaweed index 126
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 69
+Coral length effector: 20
+Coral id 38 found seaweed index 175 to eat
+Coral id 38 has eaten seaweed index 175
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 63
+Coral length effector: 20
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 28
+Coral length effector: 12
+Coral id 41 found seaweed index 720 to eat
+Coral id 41 has eaten seaweed index 720
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 13
+Coral length effector: 16
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 10
+Coral length effector: 12
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 89.9538
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 98
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1097
+Coral length effector: 36
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1397
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 62
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 72
+Coral length effector: 32
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 70
+Coral length effector: 24
+Coral id 38 found seaweed index 174 to eat
+Coral id 38 has eaten seaweed index 174
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 64
+Coral length effector: 20
+Coral id 39 found seaweed index 936 to eat
+Coral id 39 has eaten seaweed index 936
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 29
+Coral length effector: 16
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 14
+Coral length effector: 16
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 11
+Coral length effector: 12
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 85.9538
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 99
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1098
+Coral length effector: 36
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1398
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 63
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 73
+Coral length effector: 32
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 71
+Coral length effector: 28
+Coral id 38 is turning
+Lifeform (33) segment (1) collides with Lifeform (38) segment (1)
+
+Collision detected : remove rotation
+Coral id 38 CHANGE DIR ROT: TRIGO
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 65
+Coral length effector: 24
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 30
+Coral length effector: 16
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 15
+Coral length effector: 16
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 12
+Coral length effector: 12
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 81.9538
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 100
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 1099
+Coral length effector: 36
+Coral id 33 found seaweed index 903 to eat
+Lifeform (33) segment (1) collides with Lifeform (38) segment (1)
+
+Collision detected : remove rotation
+Coral id 33 CHANGE DIR ROT: INVTRIGO
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1399
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 64
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 74
+Coral length effector: 32
+Coral id 37 found seaweed index 185 to eat
+Coral id 37 has eaten seaweed index 185
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 72
+Coral length effector: 28
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 66
+Coral length effector: 24
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 31
+Coral length effector: 16
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 16
+Coral length effector: 16
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 13
+Coral length effector: 12
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 77.9538
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 101
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1100
+Coral length effector: 36
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1400
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 65
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 75
+Coral length effector: 36
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 73
+Coral length effector: 28
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 67
+Coral length effector: 24
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 32
+Coral length effector: 16
+Coral id 41 found seaweed index 690 to eat
+Coral id 41 has eaten seaweed index 690
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 17
+Coral length effector: 16
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 14
+Coral length effector: 12
+Coral id 43 found seaweed index 153 to eat
+Coral id 43 has eaten seaweed index 153
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 73.9538
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 102
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1101
+Coral length effector: 36
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1401
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 66
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 76
+Coral length effector: 36
+Coral id 37 found seaweed index 215 to eat
+Coral id 37 has eaten seaweed index 215
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 74
+Coral length effector: 28
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 68
+Coral length effector: 24
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 33
+Coral length effector: 20
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 18
+Coral length effector: 16
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 15
+Coral length effector: 16
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 69.9538
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 103
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1102
+Coral length effector: 36
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1402
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 67
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 77
+Coral length effector: 40
+Coral id 37 is extending
+Coral id 37 CHANGE STATUS DEV: REPRO
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 75
+Coral length effector: 28
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 69
+Coral length effector: 24
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 34
+Coral length effector: 20
+Coral id 41 found seaweed index 660 to eat
+Coral id 41 has eaten seaweed index 660
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 19
+Coral length effector: 16
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 16
+Coral length effector: 16
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 65.9538
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 104
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1103
+Coral length effector: 36
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1403
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 68
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 78
+Coral length effector: 12
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 76
+Coral length effector: 28
+Coral id 38 found seaweed index 144 to eat
+Coral id 38 has eaten seaweed index 144
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 70
+Coral length effector: 24
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 35
+Coral length effector: 24
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 20
+Coral length effector: 16
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 17
+Coral length effector: 16
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 61.9538
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 105
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1104
+Coral length effector: 36
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1404
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 69
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 79
+Coral length effector: 12
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 77
+Coral length effector: 32
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 71
+Coral length effector: 24
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 36
+Coral length effector: 24
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 21
+Coral length effector: 16
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 18
+Coral length effector: 16
+Coral id 43 found seaweed index 183 to eat
+Coral id 43 has eaten seaweed index 183
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 57.9538
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 106
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1105
+Coral length effector: 36
+Coral id 33 found seaweed index 202 to eat
+Coral id 33 has eaten seaweed index 202
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1405
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 70
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 80
+Coral length effector: 12
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 78
+Coral length effector: 32
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 72
+Coral length effector: 24
+Coral id 39 is turning
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 37
+Coral length effector: 24
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 22
+Coral length effector: 16
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 19
+Coral length effector: 20
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 53.9538
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 107
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 1106
+Coral length effector: 40
+Coral id 33 is extending
+Coral id 33 CHANGE STATUS DEV: REPRO
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1406
+Coral length effector: 16
+Coral id 35 is turning
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 71
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 81
+Coral length effector: 12
+Coral id 37 is turning
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 79
+Coral length effector: 32
+Coral id 38 found seaweed index 145 to eat
+Coral id 38 has eaten seaweed index 145
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 73
+Coral length effector: 24
+Coral id 39 found seaweed index 935 to eat
+Coral id 39 has eaten seaweed index 935
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 38
+Coral length effector: 24
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 23
+Coral length effector: 16
+Coral id 42 found seaweed index 290 to eat
+Coral id 42 has eaten seaweed index 290
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 20
+Coral length effector: 20
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 49.9538
+Scavenger index 0 has moved towards coral id 34
+Simulation number: 108
+Coral index 0 has id: 33
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 1107
+Coral length effector: 12
+Coral id 33 is turning
+Coral index 1 has id: 34
+status: DEAD
+AVAILABLE
+Coral index 2 has id: 35
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 1407
+Coral length effector: 16
+Coral id 35 found seaweed index 723 to eat
+Coral id 35 has eaten seaweed index 723
+Coral index 3 has id: 40
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 72
+Coral length effector: 12
+Coral id 40 is turning
+Coral index 4 has id: 37
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 82
+Coral length effector: 12
+Coral id 37 found seaweed index 245 to eat
+Coral id 37 has eaten seaweed index 245
+Coral index 5 has id: 38
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: TRIGO
+Coral age: 80
+Coral length effector: 36
+Coral id 38 is turning
+Coral index 6 has id: 39
+status: ALIVE
+AVAILABLE
+status dev: REPRO
+dir rot: INV
+Coral age: 74
+Coral length effector: 28
+Coral id 39 found seaweed index 97 to eat
+Coral id 39 has eaten seaweed index 97
+Coral index 7 has id: 41
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: TRIGO
+Coral age: 39
+Coral length effector: 24
+Coral id 41 is turning
+Coral index 8 has id: 42
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 24
+Coral length effector: 20
+Coral id 42 is turning
+Coral index 9 has id: 43
+status: ALIVE
+AVAILABLE
+status dev: EXTEND
+dir rot: INV
+Coral age: 21
+Coral length effector: 20
+Coral id 43 is turning
+Scavenger index 0 has status: LIBRE
+Scavenger index 0 is moving
+distance between scavenger and closest effector: 45.9538
+Scavenger index 0 has moved towards coral id 34
